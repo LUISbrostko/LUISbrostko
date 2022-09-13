@@ -1,9 +1,6 @@
 - 👋 Olá, eu sou @LUISbrotsko
-- ✉️ Meu e-mail @luis.brostko@escola.pr.gov.br
-- ☎️ Onde eu encontrar↓
-- Whatsapp: +42 9991-8841
-- Instagram: @brotskoluis
-- Começando na plataforma
+- ✉️ Meu e-mail: luis.brostko@escola.pr.gov.br
+- ☁️ Interessado em aprender sobre programação
 
 
 
